@@ -1,8 +1,14 @@
 phases: plan > dev > report
 
 ---PLAN PHASE---
-
+sys purposes
+use cases
+sys requirements
+sys architecture
 
 ---DEV PHASE---
+UML -> code
+3 more meetings
 
 ---REPORT PHASE---
+everyone... everywhere, oh yeah
