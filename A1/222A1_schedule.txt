@@ -1,0 +1,8 @@
+phases: plan > dev > report
+
+---PLAN PHASE---
+
+
+---DEV PHASE---
+
+---REPORT PHASE---
